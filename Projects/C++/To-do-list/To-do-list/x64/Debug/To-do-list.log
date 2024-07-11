@@ -1,0 +1,4 @@
+﻿  To-do-list.cpp
+C:\Users\Lenovo Y50\Desktop\Projects\C++\To-do-list\To-do-list\To-do-list.cpp(98,13): warning C4101: 'e1': unreferenced local variable
+C:\Users\Lenovo Y50\Desktop\Projects\C++\To-do-list\To-do-list\To-do-list.cpp(99,21): warning C4101: 'e2': unreferenced local variable
+  To-do-list.vcxproj -> C:\Users\Lenovo Y50\Desktop\Projects\C++\To-do-list\x64\Debug\To-do-list.exe
